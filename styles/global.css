@@ -1,0 +1,22 @@
+/* Sections */
+.container {
+  margin: 0 auto;
+  max-width: 75rem;
+  background: white;
+  padding: 3rem 1.5rem;
+  position: relative;
+}
+
+/* Section Header Content */
+.header-container {
+  background-color: #82814D;
+  text-align: center;
+  padding: 6rem 1rem;
+}
+
+/* Option header */
+.option-container {
+  text-align: center;
+  background-color: #83974B;
+  padding: 3rem 1rem;
+}
